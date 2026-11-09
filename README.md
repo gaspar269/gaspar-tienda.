@@ -1,1 +1,1 @@
-# gaspar-tienda.
+# gaspar-tienda
